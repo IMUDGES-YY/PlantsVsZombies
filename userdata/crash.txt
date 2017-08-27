@@ -1,0 +1,26 @@
+Exception: Noncontinuable Exception (code 0xc0000025) at address 76A6B802 in thread 15AC
+Module: KERNELBASE.dll
+Logical Address: 0001:000EA802
+
+0019FFE8 77066357 RtlCaptureContext+D7 [(Unknown File Name)(0)+0x00000000]
+Params: 00000000 006C1B9A 00231000 00000000
+
+
+EAX:0019F340 EBX:00000000 ECX:00000000 EDX:00000000 ESI:00000001 EDI:00000000
+EIP:77066357 ESP:0019FFEC  EBP:FFFFFFFF
+CS:0023 SS:002B DS:002B ES:002B FS:0053 GS:002B
+Flags:00000246
+
+Windows Ver: NT 6.2  Build 9200
+DDraw Ver: 
+DSound Ver: 
+
+Product: PlantsVsZombies
+Version: 1.2.0.1073
+Time Loaded: 00:17:42
+Fullscreen: No
+Primary ThreadId: 15AC
+Times Played: 0
+Build Num: 0
+Build Date: 
+

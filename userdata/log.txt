@@ -1,0 +1,352 @@
+Started Thu Aug 24 10:54:05 2017
+
+session id: 1503543243
+LOADED: 'Init' 3 ms on Game Loading
+First Draw Time: 3985 ms
+LOADED: 'LoaderBar' 162 ms on Game Loading
+LOADING:Long reanim 'reanim\SelectorScreen.reanim' 141 ms on Game Loading
+Load Time: 10625 ms
+LOADED: 'DelayLoad_Zombatar' 227 ms on Game Selector
+LOADED: 'DelayLoad_Almanac' 65 ms on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_FlagPole.reanim' on Game Selector
+Non-cheater failed to preload 'reanim\zombatar_zombie_head.reanim' on Game Selector
+LOADING:Long reanim 'reanim\zombatar_zombie_head.reanim' 308 ms on Game Selector
+LOADED: 'DelayLoad_AwardScreen' 15 ms on Award Screen
+LOADED: 'DelayLoad_Background1' 28 ms on Award Screen
+LOADED: 'DelayLoad_ZombieNote' 11 ms on Award Screen
+LOADED: 'DelayLoad_ZombieNoteHelp' 10 ms on Award Screen
+Started Thu Aug 24 11:06:04 2017
+
+session id: 1503543964
+LOADED: 'Init' 3 ms on Game Loading
+First Draw Time: 922 ms
+LOADED: 'LoaderBar' 127 ms on Game Loading
+LOADING:Long reanim 'reanim\SelectorScreen.reanim' 131 ms on Game Loading
+Load Time: 5062 ms
+LOADED: 'DelayLoad_Zombatar' 236 ms on Game Selector
+LOADED: 'DelayLoad_Almanac' 68 ms on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_FlagPole.reanim' on Game Selector
+Non-cheater failed to preload 'reanim\zombatar_zombie_head.reanim' on Game Selector
+LOADING:Long reanim 'reanim\zombatar_zombie_head.reanim' 318 ms on Game Selector
+Started Thu Aug 24 11:06:36 2017
+
+session id: 1503543995
+LOADED: 'Init' 4 ms on Game Loading
+First Draw Time: 1437 ms
+LOADED: 'LoaderBar' 125 ms on Game Loading
+LOADING:Long reanim 'reanim\SelectorScreen.reanim' 127 ms on Game Loading
+Load Time: 5609 ms
+LOADED: 'DelayLoad_Zombatar' 233 ms on Game Selector
+LOADED: 'DelayLoad_Almanac' 69 ms on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_FlagPole.reanim' on Game Selector
+Non-cheater failed to preload 'reanim\zombatar_zombie_head.reanim' on Game Selector
+LOADING:Long reanim 'reanim\zombatar_zombie_head.reanim' 306 ms on Game Selector
+LOADED: 'DelayLoad_Background3' 30 ms on Game Selector
+LOADED: 'DelayLoad_Credits' 379 ms on [INTRO]
+Non-cheater failed to preload 'reanim\Zombie_football.reanim' on [INTRO]
+Non-cheater failed to preload 'reanim\Zombie_snorkle.reanim' on [INTRO]
+Non-cheater failed to preload 'reanim\Zombie_catapult.reanim' on [INTRO]
+LOADED: 'DelayLoad_Background1' 30 ms on 1-1
+LOADED: 'DelayLoad_BackgroundUnsodded' 43 ms on 1-1
+Non-cheater failed to preload 'reanim\Zombie_polevaulter.reanim' on Not Playing
+LOADED: 'DelayLoad_AwardScreen' 16 ms on Award Screen
+LOADING:Long sanding 'data/houseofterror28' 41 ms on 1-2
+Non-cheater failed to preload 'reanim\Zombie_yeti.reanim' on Not Playing
+Started Fri Aug 25 20:25:25 2017
+
+session id: 1503663925
+LOADED: 'Init' 4 ms on Game Loading
+First Draw Time: 938 ms
+LOADED: 'LoaderBar' 135 ms on Game Loading
+LOADING:Long reanim 'reanim\SelectorScreen.reanim' 135 ms on Game Loading
+Load Time: 5438 ms
+LOADED: 'DelayLoad_Zombatar' 251 ms on Game Selector
+LOADED: 'DelayLoad_Almanac' 73 ms on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_FlagPole.reanim' on Game Selector
+Non-cheater failed to preload 'reanim\zombatar_zombie_head.reanim' on Game Selector
+LOADING:Long reanim 'reanim\zombatar_zombie_head.reanim' 350 ms on Game Selector
+LOADED: 'DelayLoad_Background1' 32 ms on Game Selector
+LOADING:Long reanim 'reanim\CrazyDave.reanim' 142 ms on 1-5
+LOADING:Long sanding 'data/houseofterror28' 25 ms on 1-5
+LOADED: 'DelayLoad_AwardScreen' 23 ms on Award Screen
+SetAchievement ƒø|.L$QT$Rƒì¸
+Non-cheater failed to preload 'reanim\Zombie_football.reanim' on Not Playing
+Non-cheater failed to preload 'reanim\Zombie_jackbox.reanim' on Not Playing
+Started Sat Aug 26 11:52:44 2017
+
+session id: 1503719563
+LOADED: 'Init' 11 ms on Game Loading
+First Draw Time: 1000 ms
+LOADED: 'LoaderBar' 129 ms on Game Loading
+LOADING:Long reanim 'reanim\SelectorScreen.reanim' 137 ms on Game Loading
+Load Time: 5750 ms
+LOADED: 'DelayLoad_Zombatar' 247 ms on Game Selector
+LOADED: 'DelayLoad_Almanac' 71 ms on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_FlagPole.reanim' on Game Selector
+Non-cheater failed to preload 'reanim\zombatar_zombie_head.reanim' on Game Selector
+LOADING:Long reanim 'reanim\zombatar_zombie_head.reanim' 323 ms on Game Selector
+LOADED: 'DelayLoad_Background1' 70 ms on Game Selector
+LOADING:Long sanding 'data/houseofterror28' 63 ms on 1-8
+LOADED: 'DelayLoad_AwardScreen' 24 ms on Award Screen
+LOADED: 'DelayLoad_ZombieNote' 40 ms on Award Screen
+LOADED: 'DelayLoad_ZombieNote1' 15 ms on Award Screen
+Non-cheater failed to preload 'reanim\Zombie_ladder.reanim' on Not Playing
+LOADED: 'DelayLoad_Background2' 37 ms on Award Screen
+LOADING:Long reanim 'reanim\CrazyDave.reanim' 138 ms on 2-1
+Non-cheater failed to preload 'reanim\Zombie_surprise.reanim' on 2-1
+
+Unhandled Exception
+
+**************************************************************
+
+Stack:
+  unknown symbol addr 0x5cae67 error 487
+  unknown file addr 0x76e32b5b error 487
+  unknown file addr 0x76e250f3 error 487
+  unknown file addr 0x76e24d4a error 487
+  unknown file addr 0x76e2ec69 error 487
+  unknown file addr 0x7705411d error 487
+  unknown file addr 0x76e24850 error 487
+  unknown file addr 0x75a8f834 error 487
+  unknown file addr 0x75a8f9f3 error 487
+  unknown file addr 0x75a5d007 error 487
+  unknown file addr 0x75a5be78 error 487
+  unknown file addr 0x75af37c9 error 487
+  
+Saved minidump file 'C:\ProgramData\PopCap Games\PlantsVsZombies\userdata\GameMiniDump_1503721890.dmp'.
+Saved crash screen shot 'C:\ProgramData\PopCap Games\PlantsVsZombies\userdata\CrashScreenShot_1503721890.jpg'.
+Exception during exception processing.
+Started Sat Aug 26 12:31:56 2017
+
+session id: 1503721915
+LOADED: 'Init' 8 ms on Game Loading
+First Draw Time: 953 ms
+LOADED: 'LoaderBar' 119 ms on Game Loading
+LOADING:Long reanim 'reanim\SelectorScreen.reanim' 118 ms on Game Loading
+Load Time: 5063 ms
+LOADED: 'DelayLoad_Zombatar' 225 ms on Game Selector
+LOADED: 'DelayLoad_Almanac' 67 ms on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_FlagPole.reanim' on Game Selector
+Non-cheater failed to preload 'reanim\zombatar_zombie_head.reanim' on Game Selector
+LOADING:Long reanim 'reanim\zombatar_zombie_head.reanim' 289 ms on Game Selector
+
+Unhandled Exception
+
+**************************************************************
+
+Stack:
+  unknown symbol addr 0x5cae67 error 487
+  unknown file addr 0x76e32b5b error 487
+  unknown file addr 0x76e250f3 error 487
+  unknown file addr 0x76e24d4a error 487
+  unknown file addr 0x76e2ec69 error 487
+  unknown file addr 0x7705411d error 487
+  unknown file addr 0x76e24850 error 487
+  unknown file addr 0x75a8f834 error 487
+  unknown file addr 0x75a8f9f3 error 487
+  unknown file addr 0x75a5d007 error 487
+  unknown file addr 0x75a5be78 error 487
+  unknown file addr 0x75af37c9 error 487
+  
+Saved minidump file 'C:\ProgramData\PopCap Games\PlantsVsZombies\userdata\GameMiniDump_1503721948.dmp'.
+Saved crash screen shot 'C:\ProgramData\PopCap Games\PlantsVsZombies\userdata\CrashScreenShot_1503721948.jpg'.
+Exception during exception processing.
+Started Sat Aug 26 12:32:58 2017
+
+session id: 1503721977
+LOADED: 'Init' 8 ms on Game Loading
+First Draw Time: 22359 ms
+LOADED: 'LoaderBar' 122 ms on Game Loading
+LOADING:Long reanim 'reanim\SelectorScreen.reanim' 120 ms on Game Loading
+Load Time: 26516 ms
+LOADED: 'DelayLoad_Zombatar' 225 ms on Game Selector
+LOADED: 'DelayLoad_Almanac' 66 ms on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_FlagPole.reanim' on Game Selector
+Non-cheater failed to preload 'reanim\zombatar_zombie_head.reanim' on Game Selector
+LOADING:Long reanim 'reanim\zombatar_zombie_head.reanim' 292 ms on Game Selector
+LOADED: 'DelayLoad_Background2' 49 ms on Game Selector
+LOADING:Long reanim 'reanim\CrazyDave.reanim' 119 ms on 2-1
+Non-cheater failed to preload 'reanim\Zombie_surprise.reanim' on 2-1
+LOADING:Long sanding 'data/houseofterror28' 53 ms on 2-1
+Non-cheater failed to preload 'reanim\Zombie_backup.reanim' on Not Playing
+LOADED: 'DelayLoad_AwardScreen' 15 ms on Award Screen
+Non-cheater failed to preload 'reanim\Zombie_snorkle.reanim' on Not Playing
+Started Sat Aug 26 18:09:22 2017
+
+session id: 1503742161
+LOADED: 'Init' 8 ms on Game Loading
+First Draw Time: 1062 ms
+LOADED: 'LoaderBar' 148 ms on Game Loading
+LOADING:Long reanim 'reanim\SelectorScreen.reanim' 125 ms on Game Loading
+Load Time: 5750 ms
+Started Sat Aug 26 20:04:09 2017
+
+session id: 1503749048
+LOADED: 'Init' 5 ms on Game Loading
+First Draw Time: 1000 ms
+LOADED: 'LoaderBar' 120 ms on Game Loading
+LOADING:Long reanim 'reanim\SelectorScreen.reanim' 239 ms on Game Loading
+Load Time: 5875 ms
+LOADED: 'DelayLoad_Zombatar' 226 ms on Game Selector
+LOADED: 'DelayLoad_Almanac' 65 ms on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_FlagPole.reanim' on Game Selector
+Non-cheater failed to preload 'reanim\zombatar_zombie_head.reanim' on Game Selector
+LOADING:Long reanim 'reanim\zombatar_zombie_head.reanim' 312 ms on Game Selector
+LOADED: 'DelayLoad_Background2' 68 ms on Game Selector
+LOADING:Long sanding 'data/houseofterror28' 69 ms on 2-8
+LOADED: 'DelayLoad_AwardScreen' 15 ms on Award Screen
+LOADED: 'DelayLoad_ZombieNote' 47 ms on Award Screen
+LOADED: 'DelayLoad_ZombieNote2' 18 ms on Award Screen
+SetAchievement ë)‹…Òt#‹L$·Â;AsiÀ
+Non-cheater failed to preload 'reanim\Zombie_yeti.reanim' on Not Playing
+LOADED: 'DelayLoad_Background3' 38 ms on Award Screen
+LOADING:Long reanim 'reanim\CrazyDave.reanim' 136 ms on 3-1
+Non-cheater failed to preload 'reanim\Zombie_surprise.reanim' on 3-2
+LOADED: 'DelayLoad_ChallengeScreen' 36 ms on Challenge Screen
+LOADED: 'DelayLoad_Background1' 30 ms on Challenge Screen
+Non-cheater failed to preload 'reanim\Zombie_ladder.reanim' on Not Playing
+LOADED: 'DelayLoad_ZombieNoteHelp' 19 ms on Award Screen
+Started Sun Aug 27 08:06:58 2017
+
+session id: 1503792418
+LOADED: 'Init' 4 ms on Game Loading
+First Draw Time: 1282 ms
+LOADED: 'LoaderBar' 129 ms on Game Loading
+LOADING:Long reanim 'reanim\SelectorScreen.reanim' 125 ms on Game Loading
+Load Time: 6047 ms
+LOADED: 'DelayLoad_Zombatar' 239 ms on Game Selector
+LOADED: 'DelayLoad_Almanac' 67 ms on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_FlagPole.reanim' on Game Selector
+Non-cheater failed to preload 'reanim\zombatar_zombie_head.reanim' on Game Selector
+LOADING:Long reanim 'reanim\zombatar_zombie_head.reanim' 310 ms on Game Selector
+LOADED: 'DelayLoad_Background3' 52 ms on Game Selector
+LOADING:Long sanding 'data/houseofterror28' 42 ms on 3-4
+Non-cheater failed to preload 'reanim\Zombie_surprise.reanim' on 3-4
+LOADED: 'DelayLoad_AwardScreen' 24 ms on Award Screen
+LOADED: 'DelayLoad_Store' 87 ms on Award Screen
+LOADING:Long reanim 'reanim\CrazyDave.reanim' 132 ms on Award Screen
+Started Sun Aug 27 08:52:14 2017
+
+session id: 1503795134
+LOADED: 'Init' 3 ms on Game Loading
+First Draw Time: 828 ms
+LOADED: 'LoaderBar' 128 ms on Game Loading
+LOADING:Long reanim 'reanim\SelectorScreen.reanim' 125 ms on Game Loading
+Load Time: 5594 ms
+LOADED: 'DelayLoad_Zombatar' 235 ms on Game Selector
+LOADED: 'DelayLoad_Almanac' 66 ms on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_FlagPole.reanim' on Game Selector
+Non-cheater failed to preload 'reanim\zombatar_zombie_head.reanim' on Game Selector
+LOADING:Long reanim 'reanim\zombatar_zombie_head.reanim' 310 ms on Game Selector
+LOADED: 'DelayLoad_Background3' 37 ms on Game Selector
+LOADING:Long reanim 'reanim\CrazyDave.reanim' 136 ms on 3-5
+LOADING:Long sanding 'data/houseofterror28' 59 ms on 3-5
+SetAchievement ƒø
+|.L$QT$Rƒì¸
+LOADED: 'DelayLoad_AwardScreen' 24 ms on Award Screen
+LOADED: 'DelayLoad_ChallengeScreen' 35 ms on Challenge Screen
+Started Sun Aug 27 14:08:33 2017
+
+session id: 1503814112
+LOADED: 'Init' 5 ms on Game Loading
+First Draw Time: 985 ms
+LOADED: 'LoaderBar' 129 ms on Game Loading
+LOADING:Long reanim 'reanim\SelectorScreen.reanim' 155 ms on Game Loading
+Load Time: 6719 ms
+LOADED: 'DelayLoad_Zombatar' 237 ms on Game Selector
+LOADED: 'DelayLoad_Almanac' 67 ms on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_FlagPole.reanim' on Game Selector
+Non-cheater failed to preload 'reanim\zombatar_zombie_head.reanim' on Game Selector
+LOADING:Long reanim 'reanim\zombatar_zombie_head.reanim' 307 ms on Game Selector
+LOADED: 'DelayLoad_Background3' 60 ms on Game Selector
+LOADING:Long sanding 'data/houseofterror28' 36 ms on 3-6
+LOADED: 'DelayLoad_AwardScreen' 24 ms on Award Screen
+
+**************************************************************
+
+Stack:
+  unknown file addr 0x76a6b802 error 487
+  unknown symbol addr 0x541e8f error 487
+  unknown symbol addr 0x559b2a error 487
+  unknown symbol addr 0x4074c0 error 487
+  unknown symbol addr 0x705ba3 error 487
+  unknown symbol addr 0x705bfb error 487
+  unknown file addr 0x76b78744 error 487
+  unknown file addr 0x770457fd error 487
+  unknown file addr 0x77066357 error 487
+  unknown symbol addr 0x6000 error 126
+  unknown symbol addr 0x1000 error 126
+  unknown symbol addr 0x2 error 126
+  
+Saved minidump file 'C:\ProgramData\PopCap Games\PlantsVsZombies\userdata\GameMiniDump_1503815175.dmp'.
+Saved crash screen shot 'C:\ProgramData\PopCap Games\PlantsVsZombies\userdata\CrashScreenShot_1503815175.jpg'.
+Error Message:
+
+.\Zombie.cpp(125)
+assertion failed: 'theType >= 0 && theType < NUM_ZOMBIE_TYPES'
+
+
+
+
+User Text:
+
+
+Error Title:
+Exception at 0001:000EA802
+
+Error Text:
+Exception: Noncontinuable Exception (code 0xc0000025) at address 76A6B802 in thread 15AC
+Module: KERNELBASE.dll
+Logical Address: 0001:000EA802
+
+0019FFE8 77066357 RtlCaptureContext+D7 [(Unknown File Name)(0)+0x00000000]
+Params: 00000000 006C1B9A 00231000 00000000
+
+
+EAX:0019F340 EBX:00000000 ECX:00000000 EDX:00000000 ESI:00000001 EDI:00000000
+EIP:77066357 ESP:0019FFEC  EBP:FFFFFFFF
+CS:0023 SS:002B DS:002B ES:002B FS:0053 GS:002B
+Flags:00000246
+
+Windows Ver: NT 6.2  Build 9200
+DDraw Ver: 
+DSound Ver: 
+
+Product: PlantsVsZombies
+Version: 1.2.0.1073
+Time Loaded: 00:17:42
+Fullscreen: No
+Primary ThreadId: 15AC
+Times Played: 0
+Build Num: 0
+Build Date: 
+
+
+**************************************************************
+
+Started Sun Aug 27 16:28:26 2017
+
+session id: 1503822505
+LOADED: 'Init' 5 ms on Game Loading
+First Draw Time: 1000 ms
+LOADED: 'LoaderBar' 135 ms on Game Loading
+LOADING:Long reanim 'reanim\SelectorScreen.reanim' 128 ms on Game Loading
+Load Time: 6797 ms
+LOADED: 'DelayLoad_Zombatar' 242 ms on Game Selector
+LOADED: 'DelayLoad_Almanac' 70 ms on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_FlagPole.reanim' on Game Selector
+Non-cheater failed to preload 'reanim\zombatar_zombie_head.reanim' on Game Selector
+LOADING:Long reanim 'reanim\zombatar_zombie_head.reanim' 315 ms on Game Selector
+LOADED: 'DelayLoad_ChallengeScreen' 36 ms on Challenge Screen
+LOADED: 'DelayLoad_Background3' 70 ms on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_zamboni.reanim' on 3-8
+LOADING:Long sanding 'data/houseofterror28' 57 ms on 3-8
+LOADED: 'DelayLoad_AwardScreen' 24 ms on Award Screen
+LOADED: 'DelayLoad_Background1' 73 ms on Award Screen
+LOADED: 'DelayLoad_ZombieNote' 13 ms on Award Screen
+LOADED: 'DelayLoad_ZombieNote3' 13 ms on Award Screen
+LOADING:Long atlas 'reanim\Zombie_charred_zamboni.reanim' 21 ms on 3-10
+LOADED: 'DelayLoad_Background4' 42 ms on Award Screen
+LOADING:Long reanim 'reanim\CrazyDave.reanim' 132 ms on 4-1
+LOADED: 'DelayLoad_Store' 81 ms on 4-1
+Non-cheater failed to preload 'reanim\GatlingPea.reanim' on 4-1
