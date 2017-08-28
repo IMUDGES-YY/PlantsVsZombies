@@ -805,3 +805,29 @@ LOADED: 'DelayLoad_AwardScreen' 15 ms on Award Screen
 LOADED: 'DelayLoad_Background1' 28 ms on Award Screen
 LOADED: 'DelayLoad_ZombieNote' 18 ms on Award Screen
 LOADED: 'DelayLoad_ZombieNoteHelp' 11 ms on Award Screen
+Started Mon Aug 28 19:24:21 2017
+
+session id: 1503919460
+LOADED: 'Init' 3 ms on Game Loading
+First Draw Time: 937 ms
+LOADED: 'LoaderBar' 120 ms on Game Loading
+LOADING:Long reanim 'reanim\SelectorScreen.reanim' 120 ms on Game Loading
+Load Time: 6453 ms
+LOADED: 'DelayLoad_Zombatar' 224 ms on Game Selector
+LOADED: 'DelayLoad_Almanac' 65 ms on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_FlagPole.reanim' on Game Selector
+Non-cheater failed to preload 'reanim\zombatar_zombie_head.reanim' on Game Selector
+LOADING:Long reanim 'reanim\zombatar_zombie_head.reanim' 294 ms on Game Selector
+LOADED: 'DelayLoad_ChallengeScreen' 26 ms on Challenge Screen
+LOADED: 'DelayLoad_Background2' 28 ms on Challenge Screen
+LOADED: 'DelayLoad_Store' 76 ms on Game Selector
+LOADING:Long reanim 'reanim\CrazyDave.reanim' 118 ms on Game Selector
+LOADING:Long sanding 'data/houseofterror28' 25 ms on [SURVIVAL_NIGHT_HARD]
+LOADING:Long reanim 'reanim\Zombie_digger.reanim' 107 ms on [SURVIVAL_NIGHT_HARD]
+Non-cheater failed to preload 'reanim\Zombie_surprise.reanim' on [SURVIVAL_NIGHT_HARD]
+LOADED: 'DelayLoad_AwardScreen' 15 ms on Award Screen
+LOADED: 'DelayLoad_GreenHouseGarden' 17 ms on Game Selector
+LOADED: 'DelayLoad_GreenHouseOverlay' 0 ms on Game Selector
+LOADED: 'DelayLoad_Background4' 46 ms on Challenge Screen
+LOADED: 'DelayLoad_Background3' 29 ms on [LITTLE_TROUBLE]
+LOADED: 'DelayLoad_Background5' 35 ms on Challenge Screen
