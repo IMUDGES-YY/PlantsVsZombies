@@ -1,13 +1,13 @@
-Exception: Noncontinuable Exception (code 0xc0000025) at address 7509B802 in thread F90
+Exception: Noncontinuable Exception (code 0xc0000025) at address 756DB802 in thread 3374
 Module: KERNELBASE.dll
 Logical Address: 0001:000EA802
 
-0019FFE8 77096377 RtlCaptureContext+F7 [(Unknown File Name)(0)+0x00000000]
-Params: 00000000 006C1B9A 002A6000 00000000
+0019FFE8 77566377 RtlCaptureContext+F7 [(Unknown File Name)(0)+0x00000000]
+Params: 00000000 006C1B9A 00353000 00000000
 
 
 EAX:0019F340 EBX:00000000 ECX:00000000 EDX:00000000 ESI:00000001 EDI:00000000
-EIP:77096377 ESP:0019FFEC  EBP:FFFFFFFF
+EIP:77566377 ESP:0019FFEC  EBP:FFFFFFFF
 CS:0023 SS:002B DS:002B ES:002B FS:0053 GS:002B
 Flags:00000246
 
@@ -17,9 +17,9 @@ DSound Ver:
 
 Product: PlantsVsZombies
 Version: 1.2.0.1073
-Time Loaded: 02:15:15
+Time Loaded: 01:29:48
 Fullscreen: No
-Primary ThreadId: F90
+Primary ThreadId: 3374
 Times Played: 0
 Build Num: 0
 Build Date: 
