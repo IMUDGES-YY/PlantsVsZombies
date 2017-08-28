@@ -781,3 +781,27 @@ LOADED: 'DelayLoad_AwardScreen' 15 ms on Award Screen
 LOADED: 'DelayLoad_Background3' 41 ms on Challenge Screen
 LOADED: 'DelayLoad_Background1' 40 ms on Challenge Screen
 LOADED: 'DelayLoad_Zombiquarium' 27 ms on Challenge Screen
+Started Mon Aug 28 18:48:57 2017
+
+session id: 1503917336
+LOADED: 'Init' 3 ms on Game Loading
+First Draw Time: 969 ms
+LOADED: 'LoaderBar' 119 ms on Game Loading
+LOADING:Long reanim 'reanim\SelectorScreen.reanim' 118 ms on Game Loading
+Load Time: 6485 ms
+LOADED: 'DelayLoad_Zombatar' 222 ms on Game Selector
+LOADED: 'DelayLoad_Almanac' 65 ms on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_FlagPole.reanim' on Game Selector
+Non-cheater failed to preload 'reanim\zombatar_zombie_head.reanim' on Game Selector
+LOADING:Long reanim 'reanim\zombatar_zombie_head.reanim' 290 ms on Game Selector
+LOADED: 'DelayLoad_Store' 75 ms on Game Selector
+LOADING:Long reanim 'reanim\CrazyDave.reanim' 119 ms on Game Selector
+LOADED: 'DelayLoad_GreenHouseGarden' 17 ms on Game Selector
+LOADED: 'DelayLoad_GreenHouseOverlay' 0 ms on Game Selector
+LOADED: 'DelayLoad_ChallengeScreen' 28 ms on Challenge Screen
+LOADED: 'DelayLoad_Background2' 27 ms on Challenge Screen
+LOADED: 'DelayLoad_Background3' 30 ms on Challenge Screen
+LOADED: 'DelayLoad_AwardScreen' 15 ms on Award Screen
+LOADED: 'DelayLoad_Background1' 28 ms on Award Screen
+LOADED: 'DelayLoad_ZombieNote' 18 ms on Award Screen
+LOADED: 'DelayLoad_ZombieNoteHelp' 11 ms on Award Screen
