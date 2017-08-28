@@ -750,3 +750,34 @@ LOADED: 'DelayLoad_Background2' 74 ms on Challenge Screen
 LOADED: 'DelayLoad_GreenHouseGarden' 46 ms on Game Selector
 LOADED: 'DelayLoad_GreenHouseOverlay' 1 ms on Game Selector
 Non-cheater failed to preload 'reanim\Zombie_digger.reanim' on Not Playing
+Started Mon Aug 28 16:43:33 2017
+
+session id: 1503909813
+LOADED: 'Init' 9 ms on Game Loading
+First Draw Time: 953 ms
+LOADED: 'LoaderBar' 136 ms on Game Loading
+LOADING:Long reanim 'reanim\SelectorScreen.reanim' 120 ms on Game Loading
+Load Time: 6578 ms
+LOADED: 'DelayLoad_Zombatar' 224 ms on Game Selector
+LOADED: 'DelayLoad_Almanac' 66 ms on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_FlagPole.reanim' on Game Selector
+Non-cheater failed to preload 'reanim\zombatar_zombie_head.reanim' on Game Selector
+LOADING:Long reanim 'reanim\zombatar_zombie_head.reanim' 298 ms on Game Selector
+LOADED: 'DelayLoad_ChallengeScreen' 26 ms on Challenge Screen
+Non-cheater failed to preload 'reanim\Zombie_zamboni.reanim' on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_digger.reanim' on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_catapult.reanim' on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_boss.reanim' on Game Selector
+LOADING:Long reanim 'reanim\Zombie_boss.reanim' 164 ms on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_Boss_driver.reanim' on Game Selector
+LOADED: 'DelayLoad_Store' 78 ms on Game Selector
+LOADING:Long reanim 'reanim\CrazyDave.reanim' 125 ms on Game Selector
+LOADED: 'DelayLoad_GreenHouseGarden' 16 ms on Game Selector
+LOADED: 'DelayLoad_GreenHouseOverlay' 0 ms on Game Selector
+LOADED: 'DelayLoad_Background2' 35 ms on Challenge Screen
+LOADING:Long sanding 'data/houseofterror28' 24 ms on [SURVIVAL_NIGHT_NORMAL]
+Non-cheater failed to preload 'reanim\Zombie_surprise.reanim' on [SURVIVAL_NIGHT_NORMAL]
+LOADED: 'DelayLoad_AwardScreen' 15 ms on Award Screen
+LOADED: 'DelayLoad_Background3' 41 ms on Challenge Screen
+LOADED: 'DelayLoad_Background1' 40 ms on Challenge Screen
+LOADED: 'DelayLoad_Zombiquarium' 27 ms on Challenge Screen
