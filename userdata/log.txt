@@ -530,3 +530,11 @@ Non-cheater failed to preload 'reanim\GoldMagnet.reanim' on Game Selector
 LOADED: 'DelayLoad_Background2' 36 ms on Challenge Screen
 Non-cheater failed to preload 'reanim\Zombie_digger.reanim' on [I_ZOMBIE_3]
 Non-cheater failed to preload 'reanim\Digger_rising_dirt.reanim' on [I_ZOMBIE_3]
+Started Mon Aug 28 11:02:34 2017
+
+session id: 1503889353
+LOADED: 'Init' 3 ms on Game Loading
+First Draw Time: 1359 ms
+LOADED: 'LoaderBar' 130 ms on Game Loading
+LOADING:Long reanim 'reanim\SelectorScreen.reanim' 160 ms on Game Loading
+Load Time: 7641 ms
