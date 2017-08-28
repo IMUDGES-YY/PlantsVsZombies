@@ -831,3 +831,31 @@ LOADED: 'DelayLoad_GreenHouseOverlay' 0 ms on Game Selector
 LOADED: 'DelayLoad_Background4' 46 ms on Challenge Screen
 LOADED: 'DelayLoad_Background3' 29 ms on [LITTLE_TROUBLE]
 LOADED: 'DelayLoad_Background5' 35 ms on Challenge Screen
+Started Mon Aug 28 21:30:08 2017
+
+session id: 1503927007
+LOADED: 'Init' 4 ms on Game Loading
+First Draw Time: 844 ms
+LOADED: 'LoaderBar' 160 ms on Game Loading
+LOADING:Long reanim 'reanim\SelectorScreen.reanim' 130 ms on Game Loading
+Load Time: 6719 ms
+LOADED: 'DelayLoad_Zombatar' 243 ms on Game Selector
+LOADED: 'DelayLoad_Almanac' 72 ms on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_FlagPole.reanim' on Game Selector
+Non-cheater failed to preload 'reanim\zombatar_zombie_head.reanim' on Game Selector
+LOADING:Long reanim 'reanim\zombatar_zombie_head.reanim' 306 ms on Game Selector
+LOADED: 'DelayLoad_GreenHouseGarden' 25 ms on Game Selector
+LOADED: 'DelayLoad_GreenHouseOverlay' 0 ms on Game Selector
+LOADED: 'DelayLoad_Store' 87 ms on [ZEN_GARDEN]
+LOADING:Long reanim 'reanim\CrazyDave.reanim' 132 ms on [ZEN_GARDEN]
+LOADED: 'DelayLoad_ChallengeScreen' 36 ms on Challenge Screen
+LOADED: 'DelayLoad_Background4' 46 ms on Challenge Screen
+LOADED: 'DelayLoad_Background2' 28 ms on [PORTAL_COMBAT]
+LOADING:Long sanding 'data/houseofterror28' 62 ms on [PORTAL_COMBAT]
+LOADED: 'DelayLoad_AwardScreen' 24 ms on Award Screen
+LOADED: 'DelayLoad_Background3' 38 ms on Challenge Screen
+Non-cheater failed to preload 'reanim\Zombie_digger.reanim' on [BOBSLED_BONANZA]
+Non-cheater failed to preload 'reanim\Zombie_catapult.reanim' on [BOBSLED_BONANZA]
+Non-cheater failed to preload 'reanim\Zombie_boss.reanim' on [BOBSLED_BONANZA]
+LOADING:Long reanim 'reanim\Zombie_boss.reanim' 161 ms on [BOBSLED_BONANZA]
+Non-cheater failed to preload 'reanim\Zombie_Boss_driver.reanim' on [BOBSLED_BONANZA]
