@@ -973,3 +973,58 @@ LOADING:Long reanim 'reanim\Zombie_boss.reanim' 168 ms on Game Selector
 Non-cheater failed to preload 'reanim\Zombie_Boss_driver.reanim' on Game Selector
 LOADED: 'DelayLoad_GreenHouseGarden' 17 ms on Game Selector
 LOADED: 'DelayLoad_GreenHouseOverlay' 0 ms on Game Selector
+Started Tue Aug 29 09:54:33 2017
+
+session id: 1503971672
+LOADED: 'Init' 9 ms on Game Loading
+First Draw Time: 922 ms
+LOADED: 'LoaderBar' 134 ms on Game Loading
+LOADING:Long reanim 'reanim\SelectorScreen.reanim' 123 ms on Game Loading
+Load Time: 6515 ms
+Started Tue Aug 29 13:34:15 2017
+
+session id: 1503984854
+LOADED: 'Init' 8 ms on Game Loading
+First Draw Time: 984 ms
+LOADED: 'LoaderBar' 132 ms on Game Loading
+LOADING:Long reanim 'reanim\SelectorScreen.reanim' 137 ms on Game Loading
+Load Time: 7297 ms
+LOADED: 'DelayLoad_Zombatar' 251 ms on Game Selector
+LOADED: 'DelayLoad_Almanac' 72 ms on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_FlagPole.reanim' on Game Selector
+Non-cheater failed to preload 'reanim\zombatar_zombie_head.reanim' on Game Selector
+LOADING:Long reanim 'reanim\zombatar_zombie_head.reanim' 336 ms on Game Selector
+LOADED: 'DelayLoad_ChallengeScreen' 36 ms on Challenge Screen
+LOADED: 'DelayLoad_Background3' 38 ms on Challenge Screen
+LOADING:Long sanding 'data/houseofterror28' 43 ms on [LAST_STAND]
+Non-cheater failed to preload 'reanim\Zombie_surprise.reanim' on [LAST_STAND]
+LOADED: 'DelayLoad_AwardScreen' 24 ms on Award Screen
+LOADED: 'DelayLoad_GreenHouseGarden' 26 ms on Game Selector
+LOADED: 'DelayLoad_GreenHouseOverlay' 0 ms on Game Selector
+LOADED: 'DelayLoad_Store' 89 ms on [ZEN_GARDEN]
+LOADING:Long reanim 'reanim\CrazyDave.reanim' 135 ms on [ZEN_GARDEN]
+Started Tue Aug 29 14:29:36 2017
+
+session id: 1503988175
+LOADED: 'Init' 9 ms on Game Loading
+First Draw Time: 1140 ms
+LOADED: 'LoaderBar' 176 ms on Game Loading
+LOADING:Long reanim 'reanim\SelectorScreen.reanim' 123 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_disco.reanim' 107 ms on Game Loading
+Load Time: 7015 ms
+LOADED: 'DelayLoad_Zombatar' 247 ms on Game Selector
+LOADED: 'DelayLoad_Almanac' 67 ms on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_FlagPole.reanim' on Game Selector
+Non-cheater failed to preload 'reanim\zombatar_zombie_head.reanim' on Game Selector
+LOADING:Long reanim 'reanim\zombatar_zombie_head.reanim' 303 ms on Game Selector
+LOADED: 'DelayLoad_ChallengeScreen' 28 ms on Challenge Screen
+LOADED: 'DelayLoad_Background3' 31 ms on [SURVIVAL_POOL_HARD]
+LOADING:Long sanding 'data/houseofterror28' 25 ms on [SURVIVAL_POOL_HARD]
+LOADED: 'DelayLoad_Store' 78 ms on [SURVIVAL_POOL_HARD]
+LOADING:Long reanim 'reanim\CrazyDave.reanim' 141 ms on [SURVIVAL_POOL_HARD]
+Non-cheater failed to preload 'reanim\Zombie_surprise.reanim' on [SURVIVAL_POOL_HARD]
+LOADED: 'DelayLoad_AwardScreen' 15 ms on Award Screen
+LOADED: 'DelayLoad_GreenHouseGarden' 18 ms on Game Selector
+LOADED: 'DelayLoad_GreenHouseOverlay' 0 ms on Game Selector
+LOADED: 'DelayLoad_Background2' 33 ms on [SCARY_POTTER_ENDLESS]
+Non-cheater failed to preload 'reanim\Hammer.reanim' on [SCARY_POTTER_ENDLESS]
