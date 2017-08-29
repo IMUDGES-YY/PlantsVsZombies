@@ -859,3 +859,117 @@ Non-cheater failed to preload 'reanim\Zombie_catapult.reanim' on [BOBSLED_BONANZ
 Non-cheater failed to preload 'reanim\Zombie_boss.reanim' on [BOBSLED_BONANZA]
 LOADING:Long reanim 'reanim\Zombie_boss.reanim' 161 ms on [BOBSLED_BONANZA]
 Non-cheater failed to preload 'reanim\Zombie_Boss_driver.reanim' on [BOBSLED_BONANZA]
+Started Tue Aug 29 08:29:49 2017
+
+session id: 1503966589
+LOADED: 'Init' 4 ms on Game Loading
+First Draw Time: 906 ms
+LOADED: 'LoaderBar' 146 ms on Game Loading
+LOADING:Long reanim 'reanim\SelectorScreen.reanim' 126 ms on Game Loading
+Load Time: 6766 ms
+LOADED: 'DelayLoad_Zombatar' 235 ms on Game Selector
+LOADED: 'DelayLoad_Almanac' 67 ms on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_FlagPole.reanim' on Game Selector
+Non-cheater failed to preload 'reanim\zombatar_zombie_head.reanim' on Game Selector
+LOADING:Long reanim 'reanim\zombatar_zombie_head.reanim' 315 ms on Game Selector
+LOADED: 'DelayLoad_GreenHouseGarden' 18 ms on Game Selector
+LOADED: 'DelayLoad_GreenHouseOverlay' 0 ms on Game Selector
+LOADED: 'DelayLoad_Store' 87 ms on [ZEN_GARDEN]
+LOADING:Long reanim 'reanim\CrazyDave.reanim' 135 ms on [ZEN_GARDEN]
+LOADED: 'DelayLoad_ChallengeScreen' 36 ms on Challenge Screen
+LOADED: 'DelayLoad_Background2' 28 ms on Challenge Screen
+LOADED: 'DelayLoad_AwardScreen' 23 ms on Award Screen
+LOADED: 'DelayLoad_Background3' 37 ms on Challenge Screen
+Non-cheater failed to preload 'reanim\Zombie_digger.reanim' on [I_ZOMBIE_8]
+Non-cheater failed to preload 'reanim\Digger_rising_dirt.reanim' on [I_ZOMBIE_8]
+
+**************************************************************
+
+Stack:
+  unknown file addr 0x7497b802 error 487
+  unknown symbol addr 0x541e8f error 487
+  unknown symbol addr 0x559b2a error 487
+  unknown symbol addr 0x4074c0 error 487
+  unknown symbol addr 0x705ba3 error 487
+  unknown symbol addr 0x705bfb error 487
+  unknown file addr 0x74ef8744 error 487
+  unknown file addr 0x775d57fd error 487
+  unknown file addr 0x775f6358 error 487
+  unknown symbol addr 0x6000 error 126
+  unknown symbol addr 0x1000 error 126
+  unknown symbol addr 0x2 error 126
+  
+Saved minidump file 'C:\ProgramData\PopCap Games\PlantsVsZombies\userdata\GameMiniDump_1503968862.dmp'.
+Saved crash screen shot 'C:\ProgramData\PopCap Games\PlantsVsZombies\userdata\CrashScreenShot_1503968862.jpg'.
+Error Message:
+
+.\Zombie.cpp(125)
+assertion failed: 'theType >= 0 && theType < NUM_ZOMBIE_TYPES'
+
+
+
+
+User Text:
+
+
+Error Title:
+Exception at 0001:000EA802
+
+Error Text:
+Exception: Noncontinuable Exception (code 0xc0000025) at address 7497B802 in thread 3344
+Module: KERNELBASE.dll
+Logical Address: 0001:000EA802
+
+0019FFE8 775F6358 RtlCaptureContext+D8 [(Unknown File Name)(0)+0x00000000]
+Params: 00000000 006C1B9A 0025D000 00000000
+
+
+EAX:0019F340 EBX:00000000 ECX:00000000 EDX:00000000 ESI:00000001 EDI:00000000
+EIP:775F6358 ESP:0019FFEC  EBP:FFFFFFFF
+CS:0023 SS:002B DS:002B ES:002B FS:0053 GS:002B
+Flags:00000246
+
+Windows Ver: NT 6.2  Build 9200
+DDraw Ver: 
+DSound Ver: 
+
+Product: PlantsVsZombies
+Version: 1.2.0.1073
+Time Loaded: 00:37:51
+Fullscreen: No
+Primary ThreadId: 3344
+Times Played: 0
+Build Num: 0
+Build Date: 
+
+
+**************************************************************
+
+Started Tue Aug 29 09:07:49 2017
+
+session id: 1503968868
+LOADED: 'Init' 8 ms on Game Loading
+First Draw Time: 1047 ms
+LOADED: 'LoaderBar' 119 ms on Game Loading
+LOADING:Long reanim 'reanim\SelectorScreen.reanim' 121 ms on Game Loading
+Load Time: 6687 ms
+LOADED: 'DelayLoad_Zombatar' 226 ms on Game Selector
+LOADED: 'DelayLoad_Almanac' 66 ms on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_FlagPole.reanim' on Game Selector
+Non-cheater failed to preload 'reanim\zombatar_zombie_head.reanim' on Game Selector
+LOADING:Long reanim 'reanim\zombatar_zombie_head.reanim' 291 ms on Game Selector
+LOADED: 'DelayLoad_ChallengeScreen' 28 ms on Challenge Screen
+LOADED: 'DelayLoad_Background2' 28 ms on Challenge Screen
+Non-cheater failed to preload 'reanim\Zombie_digger.reanim' on [I_ZOMBIE_9]
+Non-cheater failed to preload 'reanim\Digger_rising_dirt.reanim' on [I_ZOMBIE_9]
+LOADED: 'DelayLoad_AwardScreen' 15 ms on Award Screen
+LOADED: 'DelayLoad_Background3' 29 ms on [LAST_STAND]
+LOADED: 'DelayLoad_Store' 77 ms on Game Selector
+LOADING:Long reanim 'reanim\CrazyDave.reanim' 119 ms on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_zamboni.reanim' on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_catapult.reanim' on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_boss.reanim' on Game Selector
+LOADING:Long reanim 'reanim\Zombie_boss.reanim' 168 ms on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_Boss_driver.reanim' on Game Selector
+LOADED: 'DelayLoad_GreenHouseGarden' 17 ms on Game Selector
+LOADED: 'DelayLoad_GreenHouseOverlay' 0 ms on Game Selector
