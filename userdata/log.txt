@@ -1136,3 +1136,115 @@ Non-cheater failed to preload 'reanim\Zombie_boss.reanim' on Game Selector
 LOADING:Long reanim 'reanim\Zombie_boss.reanim' 174 ms on Game Selector
 Non-cheater failed to preload 'reanim\Zombie_Boss_driver.reanim' on Game Selector
 LOADED: 'DelayLoad_ChallengeScreen' 27 ms on Challenge Screen
+Started Tue Aug 29 18:28:07 2017
+
+session id: 1504002486
+LOADED: 'Init' 8 ms on Game Loading
+First Draw Time: 984 ms
+LOADED: 'LoaderBar' 123 ms on Game Loading
+LOADING:Long reanim 'reanim\SelectorScreen.reanim' 125 ms on Game Loading
+Load Time: 6734 ms
+LOADED: 'DelayLoad_Zombatar' 228 ms on Game Selector
+LOADED: 'DelayLoad_Almanac' 69 ms on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_FlagPole.reanim' on Game Selector
+Non-cheater failed to preload 'reanim\zombatar_zombie_head.reanim' on Game Selector
+LOADING:Long reanim 'reanim\zombatar_zombie_head.reanim' 323 ms on Game Selector
+
+Unhandled Exception
+
+**************************************************************
+
+Stack:
+  unknown symbol addr 0x47e6a8 error 487
+  unknown symbol addr 0x420366 error 487
+  unknown symbol addr 0xffffffff error 126
+  unknown symbol addr 0x541a40 error 487
+  unknown symbol addr 0x2 error 126
+  unknown symbol addr 0xa35054 error 126
+  unknown symbol addr 0x212 error 126
+  unknown symbol addr 0x0 error 126
+  unknown symbol addr 0x19f0c0 error 126
+  unknown symbol addr 0x0 error 126
+  unknown symbol addr 0x541000 error 487
+  unknown symbol addr 0x400000 error 487
+  
+Saved minidump file 'C:\ProgramData\PopCap Games\PlantsVsZombies\userdata\GameMiniDump_1504002510.dmp'.
+Saved crash screen shot 'C:\ProgramData\PopCap Games\PlantsVsZombies\userdata\CrashScreenShot_1504002510.jpg'.
+
+caught exception in SEHCatcher::UnhandledExceptionFilter
+
+Error Message:
+Unhandled Exception
+
+User Text:
+
+
+Error Title:
+
+
+Error Text:
+
+
+**************************************************************
+
+Started Tue Aug 29 18:28:37 2017
+
+session id: 1504002516
+LOADED: 'Init' 9 ms on Game Loading
+First Draw Time: 1031 ms
+LOADED: 'LoaderBar' 121 ms on Game Loading
+LOADING:Long reanim 'reanim\SelectorScreen.reanim' 125 ms on Game Loading
+Load Time: 6718 ms
+LOADED: 'DelayLoad_Zombatar' 232 ms on Game Selector
+LOADED: 'DelayLoad_Almanac' 68 ms on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_FlagPole.reanim' on Game Selector
+Non-cheater failed to preload 'reanim\zombatar_zombie_head.reanim' on Game Selector
+LOADING:Long reanim 'reanim\zombatar_zombie_head.reanim' 307 ms on Game Selector
+LOADED: 'DelayLoad_Background1' 85 ms on Game Selector
+LOADING:Long reanim 'reanim\CrazyDave.reanim' 135 ms on F1-1
+LOADED: 'DelayLoad_ChallengeScreen' 28 ms on Challenge Screen
+LOADED: 'DelayLoad_Background5' 38 ms on Challenge Screen
+LOADED: 'DelayLoad_Store' 79 ms on [SURVIVAL_ROOF_NORMAL]
+Non-cheater failed to preload 'reanim\Rake.reanim' on [SURVIVAL_ROOF_NORMAL]
+LOADING:Long sanding 'data/houseofterror28' 49 ms on [SURVIVAL_ROOF_NORMAL]
+Non-cheater failed to preload 'reanim\Zombie_surprise.reanim' on [SURVIVAL_ROOF_NORMAL]
+Non-cheater failed to preload 'reanim\Zombie_zamboni.reanim' on [SURVIVAL_ROOF_NORMAL]
+Non-cheater failed to preload 'reanim\Zombie_digger.reanim' on [SURVIVAL_ROOF_NORMAL]
+Non-cheater failed to preload 'reanim\Zombie_boss.reanim' on [SURVIVAL_ROOF_NORMAL]
+LOADING:Long reanim 'reanim\Zombie_boss.reanim' 151 ms on [SURVIVAL_ROOF_NORMAL]
+Non-cheater failed to preload 'reanim\Zombie_Boss_driver.reanim' on [SURVIVAL_ROOF_NORMAL]
+LOADED: 'DelayLoad_AwardScreen' 15 ms on Award Screen
+LOADED: 'DelayLoad_Background4' 37 ms on Challenge Screen
+LOADED: 'DelayLoad_GreenHouseGarden' 17 ms on Game Selector
+LOADED: 'DelayLoad_GreenHouseOverlay' 0 ms on Game Selector
+Started Tue Aug 29 20:11:16 2017
+
+session id: 1504008675
+LOADED: 'Init' 5 ms on Game Loading
+First Draw Time: 875 ms
+LOADED: 'LoaderBar' 147 ms on Game Loading
+LOADING:Long reanim 'reanim\SelectorScreen.reanim' 126 ms on Game Loading
+Load Time: 7062 ms
+LOADED: 'DelayLoad_Zombatar' 269 ms on Game Selector
+LOADED: 'DelayLoad_Almanac' 66 ms on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_FlagPole.reanim' on Game Selector
+Non-cheater failed to preload 'reanim\zombatar_zombie_head.reanim' on Game Selector
+LOADING:Long reanim 'reanim\zombatar_zombie_head.reanim' 301 ms on Game Selector
+LOADED: 'DelayLoad_GreenHouseGarden' 17 ms on Game Selector
+LOADED: 'DelayLoad_GreenHouseOverlay' 0 ms on Game Selector
+LOADED: 'DelayLoad_ChallengeScreen' 28 ms on Challenge Screen
+LOADED: 'DelayLoad_Background4' 37 ms on Challenge Screen
+Non-cheater failed to preload 'reanim\Zombie_zamboni.reanim' on [SURVIVAL_FOG_HARD]
+Non-cheater failed to preload 'reanim\Zombie_digger.reanim' on [SURVIVAL_FOG_HARD]
+Non-cheater failed to preload 'reanim\Zombie_catapult.reanim' on [SURVIVAL_FOG_HARD]
+Non-cheater failed to preload 'reanim\Zombie_boss.reanim' on [SURVIVAL_FOG_HARD]
+LOADING:Long reanim 'reanim\Zombie_boss.reanim' 153 ms on [SURVIVAL_FOG_HARD]
+Non-cheater failed to preload 'reanim\Zombie_Boss_driver.reanim' on [SURVIVAL_FOG_HARD]
+LOADED: 'DelayLoad_Store' 78 ms on [SURVIVAL_FOG_HARD]
+LOADING:Long reanim 'reanim\CrazyDave.reanim' 123 ms on [SURVIVAL_FOG_HARD]
+LOADING:Long sanding 'data/houseofterror28' 44 ms on [SURVIVAL_FOG_HARD]
+Non-cheater failed to preload 'reanim\Zombie_surprise.reanim' on [SURVIVAL_FOG_HARD]
+LOADED: 'DelayLoad_Background5' 28 ms on Challenge Screen
+LOADED: 'DelayLoad_Background3' 37 ms on Challenge Screen
+LOADED: 'DelayLoad_Background2' 28 ms on [SCARY_POTTER_ENDLESS]
+Non-cheater failed to preload 'reanim\Hammer.reanim' on [SCARY_POTTER_ENDLESS]
